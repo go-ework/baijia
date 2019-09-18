@@ -1,0 +1,2 @@
+# baijia
+Go bbs
